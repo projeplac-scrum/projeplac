@@ -17,11 +17,6 @@ Páginas de Projetos: Perfis personalizados para cada projeto, com todas as info
 
 Sistema de Busca: Filtre projetos por área de conhecimento, palavras-chave, instituição, etc.
 
-Interação Social: Comentários, "curtidas" e mensagens diretas para facilitar o networking.
-
-Perfis de Usuários: Crie um portfólio acadêmico destacando sua trajetória e projetos.
-
-Sistema de Notificações: Fique por dentro de novas interações e atualizações em projetos de seu interesse.
 
 🛠️ Tecnologias Utilizadas
 (Coloque aqui as tecnologias que você vai usar, por exemplo: )
@@ -57,10 +52,8 @@ Este projeto está sob a licença MIT. Sinta-se à vontade para usar, modificar 
 📧 Contato
 Se tiver alguma dúvida, sugestão ou quiser conversar sobre o projeto, pode entrar em contato.
 
-E-mail: contato@projeplac.com (ou seu e-mail pessoal)
+E-mail: projeplac.scrum@gmail.com 
 
-LinkedIn: (link para seu perfil)
 
-Twitter/X: (link para seu perfil)
 
-<p align="center">Feito com ❤️ por [Seu Nome ou Nome do Time]</p>
+
